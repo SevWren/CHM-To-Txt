@@ -1,8 +1,3 @@
----
-
-### 📜 **README.md - CHM-To-Txt**  
-
-```md
 # CHM-To-Txt 📖➡️📄  
 
 A Python tool to extract text from `.chm` (Compiled HTML Help) files and save them as plain text or PDF.  
