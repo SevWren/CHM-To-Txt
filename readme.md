@@ -8,6 +8,9 @@
 A Python tool to extract text from `.chm` (Compiled HTML Help) files and save them as plain text or PDF.  
 Includes logging for debugging and error tracking.
 
+Decided to write this as AI context windows grow, using native documentation for scripting languages will become more and more useful for forcing 
+LLM models to restrict their suggestions to those compatible with the source language versus making assumptions.
+
 ## 🚀 Features  
 - **Select CHM File via File Explorer**  
 - **Extract Text from CHM**  
